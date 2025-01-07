@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+.container{
+    text-align: center;
+    width: 100%;
+    margin-top: 8rem;
+}
+
+h1 , p{
+    font-family: 'Lobster', cursive;
+    font-size: 8rem;
+    color: 	#8B8000;
+}
+
+.dice{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-top: auto;
+}
+
+.images{
+    text-align: center;
+}
+
+h3{ 
+    color: 	#8B8000;
+}
